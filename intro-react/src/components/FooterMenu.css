@@ -1,0 +1,28 @@
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-item {
+    padding:0 4rem;
+    width:100%;
+
+}
+
+.menu-item img{
+    width:100%;
+}
+
+.menu-item p {
+    font-size: 1.2rem;
+}
+
+
+.menu-item p, .menu-item h2{
+    padding:0 0 0 12%;
+}
+
+h2 {
+    font-size: 1.8rem;
+    margin:0 0 0.5rem
+}
